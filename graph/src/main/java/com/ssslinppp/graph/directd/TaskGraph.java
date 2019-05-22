@@ -11,11 +11,6 @@ import java.util.Map;
 import java.util.Queue;
 
 /**
- * Desc:
- * <p>
- * User: liulin ,Date: 2018/3/29 , Time: 15:45 <br/>
- * Email: liulin@cmss.chinamobile.com <br/>
- * To change this template use File | Settings | File Templates.
  */
 public class TaskGraph {
     private MutableGraph<NodeTask> taskGraph = GraphBuilder.directed().allowsSelfLoops(false).build();

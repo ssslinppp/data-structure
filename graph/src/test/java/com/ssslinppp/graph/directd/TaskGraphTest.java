@@ -6,11 +6,6 @@ import org.junit.Test;
 import java.util.Map;
 
 /**
- * Desc:
- * <p>
- * User: liulin ,Date: 2018/3/29 , Time: 16:18 <br/>
- * Email: liulin@cmss.chinamobile.com <br/>
- * To change this template use File | Settings | File Templates.
  */
 public class TaskGraphTest {
     /**

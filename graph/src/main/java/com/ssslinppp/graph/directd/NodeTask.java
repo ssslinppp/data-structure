@@ -7,11 +7,6 @@ import lombok.NoArgsConstructor;
 import java.util.Set;
 
 /**
- * Desc:
- * <p>
- * User: liulin ,Date: 2018/3/29 , Time: 15:46 <br/>
- * Email: liulin@cmss.chinamobile.com <br/>
- * To change this template use File | Settings | File Templates.
  */
 @Data
 @NoArgsConstructor
